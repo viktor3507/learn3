@@ -14,4 +14,6 @@ void func()
     main();
     main();
     main();
+    func();
+    func();
 }
