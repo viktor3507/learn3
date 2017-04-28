@@ -11,4 +11,7 @@ void func()
     main();
     main();
     main();
+    main();
+    main();
+    main();
 }
