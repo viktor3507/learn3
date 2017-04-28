@@ -8,4 +8,7 @@ void main()
 void func()
 {
     main();
+    main();
+    main();
+    main();
 }
