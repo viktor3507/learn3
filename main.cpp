@@ -7,13 +7,13 @@ void main()
 
 void func()
 {
-    main();
-    main();
-    main();
-    main();
-    main();
-    main();
-    main();
-    func();
-    func();
+    main(); sourcetree
+    main(); sourcetree
+    main(); sourcetree
+    main(); sourcetree
+    main(); sourcetree
+    main(); sourcetree
+    main(); sourcetree
+    func(); sourcetree
+    func(); sourcetree
 }
