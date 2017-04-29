@@ -8,13 +8,13 @@ void main()
 void func()
 {
 
-    main(); sourcetree_Github234();
-    main(); sourcetree_Github234();
-    main(); sourcetree_Github234();
-    main(); sourcetree_Github234();
-    main(); sourcetree_Github234();
-    main(); sourcetree_Github234();
-    main(); sourcetree_Github234();
-    func(); sourcetree_Github234();
-    func(); sourcetree_Github234();
+    main(); sourcetree_Github2345();
+    main(); sourcetree_Github2345();
+    main(); sourcetree_Github2345();
+    main(); sourcetree_Github2345();
+    main(); sourcetree_Github2345();
+    main(); sourcetree_Github2345();
+    main(); sourcetree_Github2345();
+    func(); sourcetree_Github2345();
+    func(); sourcetree_Github2345();
 }
