@@ -7,13 +7,13 @@ void main()
 
 void func()
 {
-    main();github desktop();
-    main();github desktop();
-    main();github desktop();
-    main();github desktop();
-    main();github desktop();
-    main();github desktop();
-    main();github desktop();
-    func();github desktop();
-    func();github desktop();
+    main();github_desktop();
+    main();github_desktop();
+    main();github_desktop();
+    main();github_desktop();
+    main();github_desktop();
+    main();github_desktop();
+    main();github_desktop();
+    func();github_desktop();
+    func();github_desktop();
 }
